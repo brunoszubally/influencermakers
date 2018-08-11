@@ -123,6 +123,10 @@
 	position: relative;
 	padding-bottom: 10px;
 }
+.pt-170 {
+padding-top: 120px;
+
+}
 .navbar-icon {
 	background: #fff;
 	height: 3px;
